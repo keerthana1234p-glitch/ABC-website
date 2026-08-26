@@ -1,0 +1,17 @@
+.todo {
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+    margin:20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.todo h1{
+    font-size: 30px;
+    font-size: 16px;
+}
+.todo button:hover {
+    background-color: darkblue;
+    color: white;
+}
